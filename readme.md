@@ -1,3 +1,2 @@
-#  Student portfolio
-
-Hey welcome to my portfolio 
+# Srtudent portfolio
+rada rada
